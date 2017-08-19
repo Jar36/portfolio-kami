@@ -18,16 +18,16 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "jromero361980@gmail.com"
+  email_address: "jromero361980@gmail.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github: # github profile name, e.g. "jar36"
+  github: "https://github.com/Jar36"
   google_plus:
   instagram:
-  linkedin:  # Full URL https://www.linkedin.com/in/joseph-romero/
+  linkedin:  "https://www.linkedin.com/in/joseph-romero/"
   pinterest:
   reddit:
   soundcloud:
@@ -39,7 +39,7 @@ theme_settings:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-104959098-1"
   disqus_shortname:
   katex: true # Enable if using math markup
 
